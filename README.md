@@ -8,7 +8,7 @@ The only changes made to the custom image are:
 - changed boot animation
 - included [Aptoide TV](https://en.aptoide.com/) (to handle auto-updates of apps)
 - included [Stremio](https://www.stremio.com/downloads) app (for Android TV)
-- included "Stremio Boot on Launch" app (can be used to make the Stremio app start on boot)
+- included "Stremio Launch on Boot" app (can be used to make the Stremio app start on boot)
 
 The image does not include any Google services or apps.
 
