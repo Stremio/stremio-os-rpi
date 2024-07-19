@@ -1,4 +1,4 @@
-# Stremio OS for RPI
+# Stremio OS for Raspberry Pi
 
 This repo has builds of the Stremio OS for RPI5 and RPI4 which can be found [under releases](https://github.com/Stremio/stremio-os-rpi/releases).
 
