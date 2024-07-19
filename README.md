@@ -1,6 +1,6 @@
 # Stremio OS for RPI
 
-This repo has builds of the Stremio OS for RPI5 and RPI4.
+This repo has builds of the Stremio OS for RPI5 and RPI4 which can be found [under releases](https://github.com/Stremio/stremio-os-rpi/releases).
 
 The image is based on a custom build of [LineageOS](https://lineageos.org/) v21 (Android TV 14) made by [Konstakang](https://konstakang.com/).
 
