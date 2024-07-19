@@ -12,4 +12,4 @@ The only changes made to the custom image are:
 
 **The image does not include any Google services or apps.**
 
-For a guide on how to use this image for RPI, you can read [this blog post](https://blog.stremio.com/stremio-os-is-now-available-for-raspberry-pi-5-&-4/).
+For a guide on how to install and use Stremio OS for RPI, you can read [this blog post](https://blog.stremio.com/stremio-os-is-now-available-for-raspberry-pi-5-&-4/).
